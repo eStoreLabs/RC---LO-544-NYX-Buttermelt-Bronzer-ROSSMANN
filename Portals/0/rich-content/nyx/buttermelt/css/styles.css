@@ -94,6 +94,10 @@
   display: none;
 }
 
+#es-rc #es-rc-content .es-ingredience__text {
+  text-wrap: balance;
+}
+
 #es-rc #es-rc-content .es-ingredience__container {
   display: flex;
   justify-content: center;
